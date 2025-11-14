@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Exercise Problem Generator",
+  "description": "An AI-powered tool that automatically generates educational problems (True/False or Multiple Choice) from a given text. This app is inspired by a design in Korean and uses the Gemini API for content generation.",
+  "requestFramePermissions": []
+}
